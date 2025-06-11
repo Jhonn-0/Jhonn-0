@@ -38,6 +38,9 @@ Me chamo Jonathas Silva, tenho 25 anos e sou natural de Pernambuco. Concluí o c
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonn-0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+### 📱 Contato
 
+- **Email**: [jonathasdasilva0510@gmail.com](mailto:jonathasdasilva0510@gmail.com)
+- [LinkedIn](www.linkedin.com/in/jonathas-silva0)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
