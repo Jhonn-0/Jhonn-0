@@ -41,6 +41,6 @@ Me chamo Jonathas Silva, tenho 25 anos e sou natural de Pernambuco. Concluí o c
 ### 📱 Contato
 
 - **Email**: [jonathasdasilva0510@gmail.com](mailto:jonathasdasilva0510@gmail.com)
-- [LinkedIn](www.linkedin.com/in/jonathas-silva0)
+- [LinkedIn](https://www.linkedin.com/in/jonathas-silva0/)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
