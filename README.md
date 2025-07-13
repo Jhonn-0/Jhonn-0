@@ -34,7 +34,7 @@ Me chamo Jonathas Silva, tenho 25 anos e sou natural de Pernambuco. Concluí o c
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonn-0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jhonn-0 github stats"/> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonn-0&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonn-0&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ### 📱 Contato
