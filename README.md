@@ -49,21 +49,41 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cursor" height="60" alt="cursor logo"/>
+  <img width="12" />
 
-### Tools
-
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,windows,vscode,cursor)](https://github.com/arturbomtempo-dev)
-
-### Back-end
-
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,java,spring,php,python,prisma)](https://github.com/arturbomtempo-dev)
-
-### Front-end
-
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind)](https://github.com/arturbomtempo-dev)
-
-### Database
-
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://github.com/arturbomtempo-dev)
-
+</div>
 
