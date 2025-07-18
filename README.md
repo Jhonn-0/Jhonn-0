@@ -2,33 +2,42 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🖥️;JONATHAS+SILVA;I+study+Software+engineer;Welcome+my+page!+:%29)](https://git.io/typing-svg) 
 
-Me chamo Jonathas Silva, tenho 25 anos e sou natural de Pernambuco. Concluí o curso Tecnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na Estacio. Sou apaixonado por tecnologia e compartilho meu conhecimento através projetos pessoais.
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Jhonn-0&bg_color=0d1117&color=00bfbf&line=00bfbf&point=67cb57&area=true&area_color=00bfbf&hide_border=true)](https://github.com/Jhonn-0)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jhonn-0&theme=custom&hide_border=false&border_radius=5&background=00000000&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&currStreakNum=00bfbf&sideNums=003f3f&sideLabels=00bfbf&dates=00bfbf" height="150" alt="streak graph" />
+
+ <img src="https://github-profile-trophy.vercel.app?username=Jhonn-0&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
 
 
+###
+
+## 🚀 Sobre mim
+
+- 💼 Programador Full Stack
+- 🎓 Graduando em Engenharia de Software na Estácio  
+- 📚 Formado em Técnico em desenvolvimento de sistemas  
+- ⚙️ Experiência com Java, Spring, Vue.js, JavaScript, Python, MySQL, Docker e APIs REST  
+- 📍 Recife - PE  
+
+---
+ ### 📱 Contato
 <div> 
   <a href="https://github.com/jhonn-0?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jhonn-0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
   <a href="https://github.com/jhonn-0?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jhonn-0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
   <a href ="mailto:jonathasdasilva0510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathas-silva0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+  <a href="https://www.instagram.com/jhonny.0/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ad001a?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"></a>
+</div> 
 
-### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhonn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhonn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhonn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhonn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jhonn-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Jhonn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhonn-Git"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Jhonn-Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
-  <img  align="center" alt="Jhonn-Spring"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Jhonn-Spring"  height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Jhonn-Spring"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josesousacruz/josesousacruz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josesousacruz/josesousacruz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josesousacruz/josesousacruz/output/pacman-contribution-graph.svg">
+</picture>
 
 ### 📊 Estatísticas
 
@@ -37,9 +46,24 @@ Me chamo Jonathas Silva, tenho 25 anos e sou natural de Pernambuco. Concluí o c
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonn-0&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-### 📱 Contato
+---
 
-- **Email**: [jonathasdasilva0510@gmail.com](mailto:jonathasdasilva0510@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/jonathas-silva0/)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 🤖 Linguagens e Tecnologias
+
+### Tools
+
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,windows,vscode,cursor)](https://github.com/arturbomtempo-dev)
+
+### Back-end
+
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,java,spring,php,python,prisma)](https://github.com/arturbomtempo-dev)
+
+### Front-end
+
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind)](https://github.com/arturbomtempo-dev)
+
+### Database
+
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://github.com/arturbomtempo-dev)
+
 
