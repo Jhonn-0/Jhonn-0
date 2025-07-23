@@ -5,10 +5,7 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Jhonn-0&bg_color=0d1117&color=00bfbf&line=00bfbf&point=67cb57&area=true&area_color=00bfbf&hide_border=true)](https://github.com/Jhonn-0)
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jhonn-0&theme=custom&hide_border=false&border_radius=5&background=00000000&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&currStreakNum=00bfbf&sideNums=003f3f&sideLabels=00bfbf&dates=00bfbf" height="150" alt="streak graph" />
-
  <img src="https://github-profile-trophy.vercel.app?username=Jhonn-0&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
