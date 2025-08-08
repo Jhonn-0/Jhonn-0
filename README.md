@@ -17,7 +17,7 @@
 - 💼 Programador Full Stack
 - 🎓 Graduando em Engenharia de Software na Estácio  
 - 📚 Formado em Técnico em desenvolvimento de sistemas  
-- ⚙️ Experiência com Java, Spring, Vue.js, JavaScript, Python, MySQL, Docker e APIs REST  
+- ⚙️ Experiência com Java, Spring, Vue.js, Angular, JavaScript, Python, MySQL, Docker e APIs REST  
 - 📍 Recife - PE  
 
 ---
