@@ -23,7 +23,7 @@
   <a href ="mailto:jonathasdasilva0510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathas-silva0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jhonny.0/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ad001a?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"></a>
-  <a href="https://portf-lio-two-zeta.vercel.app" target="_blank" style="text-decoration: none;">
+  <a href="https://portf-lio-theta-puce.vercel.app/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-44a230?style=for-the-badge&logoColor=fff" alt="Portfólio">
 </a>
 </div> 
