@@ -19,16 +19,16 @@
   <a href="https://github.com/jhonn-0?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jhonn-0?color=7e3399&style=for-the-badge&labelColor=7e3399&logo=star&label=estrelas"/></a>
   <a href="https://github.com/jhonn-0?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jhonn-0?color=7e3399&labelColor=7e3399&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
   <a href ="mailto:jonathasdasilva0510@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=7e3399" target="_blank">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/jonathas-silva0/">
-  <img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=7e3399" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge" target="_blank">
 </a>
-  <a href="https://www.instagram.com/jhonny.0/" target="_blank" style="text-decoration: none;">
-   <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=7e3399" alt="Instagram">
+  <a href="https://www.instagram.com/jhonny.0/">
+   <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge" target="_blank">
   </a>
-  <a href="https://portf-lio-theta-puce.vercel.app/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-%23333?style=for-the-badge&logoColor=7e3399" alt="Portfólio">
+  <a href="https://portf-lio-theta-puce.vercel.app/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-%23333?style=for-the-badge" target="_blank">
 </a>
 </div> 
 
