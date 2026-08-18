@@ -1,23 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e3399&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e3399&size=35&center=true&vCenter=true&width=1000&lines=🖥️;JONATHAS+SILVA;I+study+Software+engineer;Welcome+my+page!+:%29)](https://git.io/typing-svg) 
-
-
-###
+<p align="center">
+  <img width="100%" height="327"
+       alt="image"
+       src="https://github.com/user-attachments/assets/fc507921-4deb-4bcb-b5be-79657dfa5cfa" />
+</p>
 
 ## 🚀 Sobre mim
 
-- 💼 Programador Full Stack
-- 🎓 Graduando em Engenharia de Software 
-- 📚 Formado em Técnico em desenvolvimento de sistemas  
-- ⚙️ Experiência com C#, .Net, Java, Spring, Angular, JavaScript, Python, MySQL, Docker e APIs REST  
-- 📍 Recife - PE  
+<img
+  align="right"
+  src="https://github.com/user-attachments/assets/79b51ece-75ff-4e89-8877-2f5140321b9c"
+  width="380"
+  alt="Developer Illustration"
+/>
+
+Aqui é o Jonathas Silva 👋 Desenvolvedor Full Stack e estudante de Engenharia de Software, morando em Recife, Brasil.
+
+Tenho experiência profissional no desenvolvimento e manutenção de aplicativos web, trabalhando principalmente com Java, Spring Boot, Angular, TypeScript e APIs REST. Também tenho experiência com microsserviços, micro front-ends, testes automatizados, bancos de dados SQL/NoSQL e Docker.
+
+Atualmente, estou aprofundando meus conhecimentos em Arquitetura de Software, Design Orientado a Domínio (DDD), Padrões de Design, Microsserviços e Código Limpo, ao mesmo tempo em que aprimoro continuamente minhas habilidades de desenvolvimento de back-end e front-end.
+
+Meu objetivo é criar softwares confiáveis, fáceis de manter e escaláveis, ao mesmo tempo em que evoluo de um Desenvolvedor Full Stack para um Engenheiro de Software completo.
+
+
+<br clear="right"/> 
 
 ---
  ### 📱 Contato
+ 
 <div> 
-  <a href="https://github.com/jhonn-0?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jhonn-0?color=7e3399&style=for-the-badge&labelColor=7e3399&logo=star&label=estrelas"/></a>
-  <a href="https://github.com/jhonn-0?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jhonn-0?color=7e3399&labelColor=7e3399&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+  <a href="https://github.com/jhonn-0?tab=repositories&sort=stargazers">
+  <img
+    alt="Total de estrelas"
+    title="Total de estrelas GitHub"
+    src="https://custom-icon-badges.demolab.com/github/stars/jhonn-0?color=2563EB&style=for-the-badge&labelColor=1E293B&logo=star&label=estrelas"
+  />
+</a>
+
+<a href="https://github.com/jhonn-0?tab=followers">
+  <img
+    alt="Seguidores"
+    title="Me siga no GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/jhonn-0?color=2563EB&labelColor=1E293B&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+  />
+</a>
   <a href ="mailto:jonathasdasilva0510@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge" target="_blank">
   </a>
