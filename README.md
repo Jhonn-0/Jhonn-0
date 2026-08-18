@@ -38,13 +38,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josesousacruz/josesousacruz/output/pacman-contribution-graph.svg">
 </picture>
 
-### 📊 Estatísticas
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhonn-0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jhonn-0 github stats"/> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonn-0&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
